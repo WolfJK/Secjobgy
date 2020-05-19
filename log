@@ -1,0 +1,30 @@
+2020-05-18 19:09:27.701446 POST /api/search admin 127.0.0.1 {'empno': [101, 100, 102], 'size': 2, 'num': 3}
+2020-05-18 19:10:03.646397 POST /api/search admin 127.0.0.1 {'empno': [101, 100, 102], 'size': 2, 'num': 3}
+2020-05-19 10:38:25.102369 POST /api/search admin 127.0.0.1 {'empno': [101, 100, 102], 'size': 2, 'num': 3}
+2020-05-19 10:38:31.226721 POST /api/login admin 127.0.0.1 {'user_name': 'admin'}
+2020-05-19 10:38:40.853273 POST /api/search admin 127.0.0.1 {'empno': [101, 100, 102], 'size': 2, 'num': 3}
+2020-05-19 10:41:08.347598 POST /api/search admin 127.0.0.1 {'empno': [101, 100, 102], 'size': 2, 'num': 3}
+2020-05-19 10:42:02.826296 POST /api/search admin 127.0.0.1 {'empno': [101, 100, 102], 'size': 2, 'num': 3}
+2020-05-19 10:46:22.306937 POST /api/new_emp admin 127.0.0.1 {'name': '5分钟产品', 'empno': 102, 'org': [2, 3]}
+2020-05-19 10:46:36.893720 POST /api/new_emp admin 127.0.0.1 {'name': '5分钟产品', 'empno': 102, 'org': [2, 3]}
+2020-05-19 10:47:47.513191 POST /api/new_emp admin 127.0.0.1 {'name': '5分钟产品', 'empno': 102, 'org': [2, 3]}
+2020-05-19 10:47:59.895929 POST /api/new_emp admin 127.0.0.1 {'name': '5分钟产品', 'empno': 102, 'org': [2, 3]}
+2020-05-19 10:52:50.302457 POST /api/new_emp admin 127.0.0.1 {'name': '5分钟产品', 'empno': 102, 'org': [2, 3]}
+2020-05-19 10:56:50.349234 POST /api/new_emp admin 127.0.0.1 {'task_id': '8a83666e-8481-403c-a003-46a221b61478'}
+2020-05-19 10:56:59.869512 POST /api/new_emp_status admin 127.0.0.1 {'task_id': '8a83666e-8481-403c-a003-46a221b61478'}
+2020-05-19 10:57:51.199894 POST /api/new_emp admin 127.0.0.1 {'name': '5分钟产品', 'empno': 102, 'org': [2, 3]}
+2020-05-19 10:58:57.391827 POST /api/login admin 127.0.0.1 {'user_name': 'admin'}
+2020-05-19 10:59:11.978967 POST /api/login admin 127.0.0.1 {'user_name': 'admin'}
+2020-05-19 10:59:59.460957 POST /api/login admin 127.0.0.1 {'user_name': 'admin'}
+2020-05-19 11:00:09.996246 POST /api/new_emp admin 127.0.0.1 {'name': '5分钟产品', 'empno': 102, 'org': [2, 3]}
+2020-05-19 11:01:04.513083 POST /api/new_emp admin 127.0.0.1 {'name': '5分钟产品', 'empno': 102, 'org': [2, 3]}
+2020-05-19 11:01:16.902643 POST /api/new_emp_status admin 127.0.0.1 {'task_id': '22638f4a-75cc-4a5b-9e6c-a9fcb0b38c56'}
+2020-05-19 11:01:25.358582 POST /api/new_emp_status admin 127.0.0.1 {'task_id': 'db04f0f8-cf78-4e83-8125-e3b048901ab3'}
+2020-05-19 11:01:42.355370 POST /api/new_emp_status admin 127.0.0.1 {'task_id': 'db04f0f8-cf78-4e83-8125-e3b048901ab3'}
+2020-05-19 11:02:19.268171 POST /api/new_emp admin 127.0.0.1 {'name': '一个星期产品', 'empno': 105, 'org': [2, 3]}
+2020-05-19 11:02:27.064760 POST /api/new_emp_status admin 127.0.0.1 {'task_id': '12f978e0-62cb-4dcd-b4e5-ce582b458a9d'}
+2020-05-19 11:16:10.267710 POST /api/login admin 127.0.0.1 {'user_name': 'admin'}
+2020-05-19 11:16:18.859053 POST /api/login admin 127.0.0.1 {'user_name': 'admin'}
+2020-05-19 11:17:07.474695 POST /api/login admin 127.0.0.1 {'user_name': 'admin'}
+2020-05-19 11:17:16.328875 POST /api/login admin 127.0.0.1 {'user_name': 'admin', 'password': '123'}
+2020-05-19 11:17:18.736013 POST /api/login admin 127.0.0.1 {'user_name': 'admin', 'password': '123456'}
